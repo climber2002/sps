@@ -69,6 +69,18 @@ a:hover {
     white-space: nowrap;
 }
 
+.blue {
+    background-color: #29aeba;
+    padding: 5px 10px !important;
+    border-radius: 16px !important;
+}
+
+.grey {
+    background-color: #aaaaaa;
+    padding: 5px 10px !important;
+    border-radius: 16px !important;
+}
+
 .img-thumb {
     width: 25px;
     height: 25px;
@@ -506,8 +518,8 @@ a:hover {
 .btn-default {
     color: #29aeba;
     font-size: 13px;
-    border-color: #29aeba;
-    border-radius: 15px;
+    /* border-color: #29aeba; */
+    /* border-radius: 15px; */
 }
 
 .btn-default:focus,
@@ -515,6 +527,6 @@ a:hover {
 .btn-default:hover {
     color: #29aeba;
     font-size: 13px;
-    border-color: #ffffff;
-    border-radius: 15px;
+    /* border-color: #ffffff;
+    border-radius: 15px; */
 }

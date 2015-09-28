@@ -1,0 +1,84 @@
+#top-info {
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 2px;
+}
+
+.top-info_name {
+  color: #707070;
+  font-size: 14px;
+}
+
+.top-info_value {
+  color: #303030;
+  font-size: 16px;
+}
+
+.top-info_value_emp {
+  color: #29aeba;
+  font-size: 16px;
+}
+
+.top-info_column {
+  display: inline;
+  margin-right: 40px;
+}
+
+#breadcrumb {
+  background-color: #ffffff;
+}
+
+
+.main-breadcrumb {
+    background-color: white;
+}
+
+.main-breadcrumb > li {
+    margin-top: 8px;
+    float: left;
+    margin-bottom: -1px;
+}
+
+.main-breadcrumb > li > a {
+    font-size: 16px;
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border-bottom: 2px solid transparent;
+    color: #707070;
+    padding-top: 12px;
+}
+
+.main-breadcrumb > li.active > a,
+.main-breadcrumb > li.active > a:hover,
+.main-breadcrumb > li.active > a:focus {
+    padding-top: 10px;
+    font-size: 18px;
+    background-color: white;
+    color: #29aeba;
+    border-bottom: 2px solid #29aeba;
+}
+
+.main-breadcrumb > li.half-active > a {
+    padding-top: 10px;
+    font-size: 18px;
+    background-color: white;
+    color: #aaaaaa; 
+}
+
+.form-label {
+  display: block;
+  margin-left: 20px;
+  font-size: 13px;
+  color: #707070;
+  margin-top: 10px;
+}
+
+.form-emp {
+  color: #ee7f3c;
+  font-size: 20px;
+}
+
+.form-section {
+  padding-bottom: 20px;
+}
